@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anki Tracker</string>
+    <string name="channel_name">AnkiTrackerService</string>
+    <string name="channel_description" />
+    <string name="service_notification_title">Anki clipboard tracker</string>
+    <string name="service_notification_text">Click to add a word from the clipboard.</string>
+</resources>
